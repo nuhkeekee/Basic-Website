@@ -1,19 +1,30 @@
-html { background-color: #dbd6cf;
+html { background-color: #FFFFFF;
   color: black;
   font-family: Arial, sans-serif;
   width:600px;
-  line-height: 20px}
-
+  line-height: 20px
 }
+
 
 header {
-  font-family: 'Lobster', cursive;
-  font-style: bold;
-  color: #79756f;
-  font-size: 3rem;}
-
-]
-
-h1 {
-
+  background-color: #FFFF9E;
+  padding: 3em 3em 3em 3em;
+  margin: 0;
 }
+
+a {color: black;}
+
+a:hover {color: pink;}
+
+ul {list-style-type: none
+  }
+
+h1 { font-family:'Lobster', cursive;
+font-style: bold;
+color: pink;
+font-size: 3em;}
+
+h2 {font-family: 'Lobster', cursive;
+font-style:bold;
+color: pink;
+font-size: 1.5em}
